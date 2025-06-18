@@ -86,7 +86,7 @@ To enhable a hosted GitHub Pages version:
 1. Go to your repo Settings > Pages.
 2. Under `Source`, select `Deploy from a branch`
 3. Under branch, select `master` and `/(root)`. Save
-4. Your CV will be accessible at: `https://your-github-username.github.io/cv-md/outputs/cv.html`
+4. Your CV will be accessible at: `https://your-github-username.github.io/cv-md/outputs/cv`
 
 ## Requirements
 
