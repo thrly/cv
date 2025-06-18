@@ -1,6 +1,5 @@
 body {
-  font-family: Montserrat, "Trebuchet MS", "Lucida Sans Unicode",
-    "Lucida Grande", "Lucida Sans", Arial, sans-serif, sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: auto;
   max-width: 800px;
   color: #222;
@@ -24,6 +23,7 @@ p {
   margin: 0.33rem 0rem 0rem 2rem;
 }
 
+a,
 p a {
   text-decoration: none;
   font-style: italic;
@@ -50,10 +50,12 @@ ul {
 }
 .social a {
   text-decoration: none;
+  font-style: normal;
   color: #222;
 }
 .social a:hover {
   text-decoration: none;
+  font-style: normal;
   color: white;
   background-color: #222;
 }
@@ -65,7 +67,6 @@ hr {
 
 footer {
   font-size: 0.8em;
-  color: #005fa3;
   text-align: center;
   margin-top: 4rem;
 }

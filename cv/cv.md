@@ -10,34 +10,25 @@ updated: June 2025
 
 **Fullstack Software Developer • JavaScript • React • Node.js**
 
-Creative and technically skilled junior software developer transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, algorithmic systems, and interactive technologies, I now focus full-time on web development and software engineering. I bring excellent communication, project management, and problem-solving skills, along with a growing portfolio of hands-on development projects.
+Creative and technically skilled junior software developer transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, music technology, and interactive multimedia, I am now focused software development. I bring excellent communication, project management, and problem-solving skills, along with a growing portfolio of hands-on development projects.
 
 ## Education
 
-**PhD** _University of Leeds, 2012–2016_  
-Fully funded by AHRC. Awarded with no corrections and winner of the Board of Examiners Prize.
-
-**MA, Computer Music & Music Technology – Distinction** _University of Leeds, 2010–2011_
-
-**BA (Hons), Music Production – First Class** _Leeds College of Music, 2007–2010_
+- **PhD** - University of Leeds, _2012–2016_ - Fully funded by AHRC. Awarded without corrections and Board of Examiners Prize
+- **MA** - Computer Music & Music Technology _(Distinction)_ - University of Leeds, _2010–2011_
+- **BA(Hons)** - Music Production (First Class) - Leeds College of Music, _2007–2010_
 
 ## Professional Experience
 
-### Lecturer - University of Leeds
+### Lecturer, University of Leeds (2019 – present)
 
-#### 2019 – present
+- Delivered lectures and workshops to technical and creative audiences on topics including JavaScript, p5.js, and Max/MSP.
+- Supervised software-based student projects involving generative systems and interactive installations.
+- Produced technical documentation and live coding tutorials to support independent learning and development.
 
-- Designed and led modules in creative coding using JavaScript, p5.js, Max MSP, and algorithmic design principles.
-- Delivered lectures, workshops, and presentations to diverse technical and creative audiences.
-- Supervised technical projects including interactive installations and generative systems.
-- Produced technical documentation and tutorials to support student development.
+### Teaching Fellow, University of Leeds (2016 – 2019)
 
-### Teaching Fellow - University of Leeds
-
-#### 2016 – 2019
-
-- Delivered technical teaching across music technology and electronic engineering programmes.
-- Taught programming concepts, interactive systems, and audio signal processing.
+- Provision of technical teaching across music technology and electronic engineering programmes.
 - Supported student development with structured project feedback and supervision.
 
 ## Technical Skills
@@ -45,7 +36,7 @@ Fully funded by AHRC. Awarded with no corrections and winner of the Board of Exa
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js, Express, p5.js
 - **Databases & APIs:** RESTful APIs, PostgreSQL (learning)
-- **Tools:** GitHub, Docker, npm, VS Code, Markdown, LaTeX
+- **Tools:** GitHub, npm, VS Code, Markdown, LaTeX
 - **Testing & Deployment:** Unit Testing, Render, Docker (intro), CI/CD (basic)
 - **Currently Learning:** Next.js, AWS, React Native
 - **Other Skills:** Technical writing, agile collaboration, mentoring, public speaking
