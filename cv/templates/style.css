@@ -24,8 +24,9 @@ p {
   margin: 0.33rem 0rem 0rem 2rem;
 }
 
-a {
+p a {
   text-decoration: none;
+  font-style: italic;
   color: #222;
 }
 

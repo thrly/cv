@@ -78,6 +78,4 @@ Designed and built a wireless 36-key split keyboard running custom ZMK firmware.
 
 ## Contact
 
-📧 [o.thrly@gmail.com](mailto:o.thrly@gmail.com)  
-🔗 [github.com/thrly](https://github.com/thrly)  
-🔗 [linkedin.com/in/oliver-thurley](https://www.linkedin.com/in/oliver-thurley)
+Please get in touch via [o.thrly@gmail.com](mailto:o.thrly@gmail.com) and find me on [GitHub](https://github.com/thrly) or [LinkedIn](https://www.linkedin.com/in/oliver-thurley).
