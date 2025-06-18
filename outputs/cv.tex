@@ -13,7 +13,8 @@
 % Colors and section styling
 \definecolor{devblue}{HTML}{005fa3}
 \titleformat{\section}{\large\bfseries\color{devblue}}{}{0em}{}
-\titleformat{\subsection}{\normalsize\bfseries\color{black}}{}{0em}{}
+% Remove numbering from subsection headings
+\titleformat{\subsection}[block]{\normalsize\bfseries\color{black}}{}{0em}{}
 
 % Header and footer
 \pagestyle{fancy}
@@ -42,7 +43,7 @@
 
 \vspace{1em}
 
-\textbf{Fullstack Software Developer : JavaScript • React • Node.js}
+\textbf{Fullstack Software Developer • JavaScript • React • Node.js}
 
 Creative and technically skilled junior software developer transitioning
 from a successful academic career in music technology and creative
@@ -54,17 +55,15 @@ along with a growing portfolio of hands-on development projects.
 
 \subsection{Education}\label{education}
 
-\subsubsection{PhD}\label{phd}
-
-\emph{University of Leeds, 2012--2016}\\
+\textbf{PhD} \emph{University of Leeds, 2012--2016}\\
 Fully funded by AHRC. Awarded with no corrections and winner of the
 Board of Examiners Prize.
 
-\textbf{MA, Computer Music \& Music Technology -- Distinction}\\
+\textbf{MA, Computer Music \& Music Technology -- Distinction}
 \emph{University of Leeds, 2010--2011}
 
-\textbf{BA (Hons), Music Production -- First Class}\\
-\emph{Leeds College of Music, 2007--2010}
+\textbf{BA (Hons), Music Production -- First Class} \emph{Leeds College
+of Music, 2007--2010}
 
 \subsection{Professional Experience}\label{professional-experience}
 
@@ -132,8 +131,8 @@ Leeds}\label{teaching-fellow---university-of-leeds}
 \subsection{Software Projects}\label{software-projects}
 
 \subsubsection{\texorpdfstring{\href{https://github.com/thrly/grant-scribe}{Grant
-Scribe} -- React • TypeScript • Express • OpenAI
-API}{Grant Scribe -- React • TypeScript • Express • OpenAI API}}\label{grant-scribe-react-typescript-express-openai-api}
+Scribe} (React, TypeScript, Express, OpenAI
+API)}{Grant Scribe (React, TypeScript, Express, OpenAI API)}}\label{grant-scribe-react-typescript-express-openai-api}
 
 SPA that generates tailored research proposals from user input. Built
 with React (TypeScript), Node.js/Express backend, and RESTful calls to
@@ -141,32 +140,32 @@ the OpenAI API. Deployed via Render. Demonstrates component-based
 architecture, async data fetching, error handling.
 
 \subsubsection{\texorpdfstring{\href{https://github.com/thrly/clouddrift}{clouddrift}
--- Node.js CLI
-Tool}{clouddrift -- Node.js CLI Tool}}\label{clouddrift-node.js-cli-tool}
+(Node.js, CLI
+Tool)}{clouddrift (Node.js, CLI Tool)}}\label{clouddrift-node.js-cli-tool}
 
 Published npm module that generates animated ASCII clouds using simplex
 noise. Demonstrates proficiency in package publishing and noise
 algorithms.
 
 \subsubsection{\texorpdfstring{\href{https://github.com/thrly/pen-plotter-art}{Pen
-Plotter Art} -- p5.js • Raspberry Pi •
-Arduino}{Pen Plotter Art -- p5.js • Raspberry Pi • Arduino}}\label{pen-plotter-art-p5.js-raspberry-pi-arduino}
+Plotter Art} (p5.js, Raspberry Pi,
+Arduino)}{Pen Plotter Art (p5.js, Raspberry Pi, Arduino)}}\label{pen-plotter-art-p5.js-raspberry-pi-arduino}
 
 Interactive generative drawing using p5.js to design visuals, render
 gcode, and control a 3D-printed pen plotter. Combines creative coding,
 hardware integration, and microcontroller programming.
 
 \subsubsection{\texorpdfstring{\href{https://github.com/thrly/harmonic-synth}{Harmonic
-Synthesizer} -- p5.sound •
-JavaScript}{Harmonic Synthesizer -- p5.sound • JavaScript}}\label{harmonic-synthesizer-p5.sound-javascript}
+Synthesizer} (p5.sound,
+JavaScript)}{Harmonic Synthesizer (p5.sound, JavaScript)}}\label{harmonic-synthesizer-p5.sound-javascript}
 
 Browser-based synthesizer for demonstrating harmonic series
 relationships through real-time audio generation and UI controls. Used
 in educational settings for interactive music teaching.
 
 \subsubsection{\texorpdfstring{\href{https://github.com/thrly/tempest-keyboard}{Tempest}
--- ZMK Firmware •
-Hardware}{Tempest -- ZMK Firmware • Hardware}}\label{tempest-zmk-firmware-hardware}
+(ZMK Firmware,
+Hardware)}{Tempest (ZMK Firmware, Hardware)}}\label{tempest-zmk-firmware-hardware}
 
 Designed and built a wireless 36-key split keyboard running custom ZMK
 firmware. Focused on PCB layout, embedded firmware, and configuration.
