@@ -21,18 +21,17 @@ h3 {
 }
 
 p {
-  margin: 0.5rem 0rem 0rem 2rem;
+  margin: 0.33rem 0rem 0rem 2rem;
 }
 
-p a {
+a {
+  text-decoration: none;
   color: #222;
 }
 
 ul {
   margin-left: 0.5rem;
 }
-
-
 
 .social ul {
   margin: auto;
@@ -68,8 +67,4 @@ footer {
   color: #005fa3;
   text-align: center;
   margin-top: 4rem;
-}
-footer a {
-  text-decoration: none;
-  color: #222;
 }

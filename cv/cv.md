@@ -1,67 +1,83 @@
 ---
+title: CV
 author: Oliver Thurley
-email: example@gmail.com
+email: o.thrly@gmail.com
 phone: "+447792723236"
 github: thrly
 linkedin: oliver-thurley
-title: CV
 updated: June 2025
 ---
 
-Software developer with a background in creative coding, algorithmic thinking, music, and web technologies. Proficient in JavaScript, React, Node.js, and RESTful APIs.
+**Fullstack Software Developer : JavaScript • React • Node.js**
 
-For the last ten years I have been teaching and researching music technology. Now transitioning from academia to industry, I bring a unique blend of research expertise, teaching experience, and hands-on software development skills.
-
-## Skills
-
-- **Languages & Frameworks**: JavaScript, React, Python, TypeScript, HTML, CSS, Node, Express, RESTful APIs, p5.js
-- **Tools & Platforms**: Git, GitHub, npm, Docker, Unit Testing, Markdown
-- **Currently Learning**: Next.js, AWS, PostgreSQL, React Native
-- **Other**: Technical documentation, collaborative problem-solving, agile working, academic supervision, public speaking, mentoring
+Creative and technically skilled junior software developer transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, algorithmic systems, and interactive technologies, I now focus full-time on web development and software engineering. I bring excellent communication, project management, and problem-solving skills, along with a growing portfolio of hands-on development projects.
 
 ## Education
 
-- **Doctorate (2012–2016)** – PhD, School of Music, University of Leeds. Full AHRC scholarship. No corrections, board of examiners prize.
-- **Masters (2010–2011)** – MA in Computer Music & Music Technology, University of Leeds. Distinction.
-- **Undergraduate (2007–2010)** – BA(Hons) Music Production, Leeds College of Music. First class (Hons).
+### PhD
 
-## Experience
+_University of Leeds, 2012–2016_  
+Fully funded by AHRC. Awarded with no corrections and winner of the Board of Examiners Prize.
 
-### Lecturer, University of Leeds (2019–present)
+**MA, Computer Music & Music Technology – Distinction**  
+_University of Leeds, 2010–2011_
 
-- Led cross-disciplinary modules in music technology and creative coding, including the design of Computational Art module with programming and software development focus (JavaScript, p5.js).
-- Conducted research resulting in publications and presentations at international conferences.
-- Supervised PhD students and final-year projects focused on interactive systems and algorithmic design.
-- Produced instructional resources and technical documentation; delivered academic presentations and workshops.
-- Introduced GitHub workflows and version control into teaching practice.
+**BA (Hons), Music Production – First Class**  
+_Leeds College of Music, 2007–2010_
 
-### Teaching Fellow, University of Leeds (2016–2019)
+## Professional Experience
 
-- Taught on the BSc Multimedia, Music & Electronics programme in the School of Electronic and Electrical Engineering and School of Music.
-- Delivered technical lectures in sound programming and interactive media.
+### Lecturer - University of Leeds
 
-## Personal Projects
+#### 2019 – present
 
-### [Grant Scribe](https://github.com/thrly) – React + TypeScript + OpenAI + Express
+- Designed and led modules in creative coding using JavaScript, p5.js, Max MSP, and algorithmic design principles.
+- Delivered lectures, workshops, and presentations to diverse technical and creative audiences.
+- Supervised technical projects including interactive installations and generative systems.
+- Produced technical documentation and tutorials to support student development.
 
-SPA that generates tailored research proposals from user input. Uses RESTful API calls to interact with OpenAI. Built with component-based architecture, deployed via Render, managed through.
+### Teaching Fellow - University of Leeds
 
-### [clouddrift](https://github.com/thrly) – Node.js CLI Tool
+#### 2016 – 2019
 
-Published npm module that generates animated ASCII clouds using simplex noise functions.
+- Delivered technical teaching across music technology and electronic engineering programmes.
+- Taught programming concepts, interactive systems, and audio signal processing.
+- Supported student development with structured project feedback and supervision.
 
-### [Pen Plotter Art](https://github.com/thrly) – p5.js + Raspberry Pi + Arduino
+## Technical Skills
 
-Interactive generative art project controlled via a 3D-printed plotter. Uses p5.js for algorithmic design and gcode via microcontroller for hardware control.
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Express, p5.js
+- **Databases & APIs:** RESTful APIs, PostgreSQL (learning)
+- **Tools:** GitHub, Docker, npm, VS Code, Markdown, LaTeX
+- **Testing & Deployment:** Unit Testing, Render, Docker (intro), CI/CD (basic)
+- **Currently Learning:** Next.js, AWS, React Native
+- **Other Skills:** Technical writing, agile collaboration, mentoring, public speaking
 
-### [Harmonic Synthesizer](https://github.com/thrly) – p5.sound + p5.js
+## Software Projects
 
-Browser-based synthesizer for demonstrating harmonic relationships in sound.
+### [Grant Scribe](https://github.com/thrly/grant-scribe) – React • TypeScript • Express • OpenAI API
 
-### [Tempest](https://github.com/thrly) – wireless split keyboard
+SPA that generates tailored research proposals from user input. Built with React (TypeScript), Node.js/Express backend, and RESTful calls to the OpenAI API. Deployed via Render. Demonstrates component-based architecture, async data fetching, error handling.
 
-Designed and build a 36-key split keyboard with ZMK firmware.
+### [clouddrift](https://github.com/thrly/clouddrift) – Node.js CLI Tool
+
+Published npm module that generates animated ASCII clouds using simplex noise. Demonstrates proficiency in package publishing and noise algorithms.
+
+### [Pen Plotter Art](https://github.com/thrly/pen-plotter-art) – p5.js • Raspberry Pi • Arduino
+
+Interactive generative drawing using p5.js to design visuals, render gcode, and control a 3D-printed pen plotter. Combines creative coding, hardware integration, and microcontroller programming.
+
+### [Harmonic Synthesizer](https://github.com/thrly/harmonic-synth) – p5.sound • JavaScript
+
+Browser-based synthesizer for demonstrating harmonic series relationships through real-time audio generation and UI controls. Used in educational settings for interactive music teaching.
+
+### [Tempest](https://github.com/thrly/tempest-keyboard) – ZMK Firmware • Hardware
+
+Designed and built a wireless 36-key split keyboard running custom ZMK firmware. Focused on PCB layout, embedded firmware, and configuration.
 
 ## Contact
 
-Please get in touch via o.thrly@gmail.com or find me on LinkedIn.
+📧 [o.thrly@gmail.com](mailto:o.thrly@gmail.com)  
+🔗 [github.com/thrly](https://github.com/thrly)  
+🔗 [linkedin.com/in/oliver-thurley](https://www.linkedin.com/in/oliver-thurley)
