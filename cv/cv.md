@@ -11,7 +11,7 @@ updated: June 2025
 
 **Fullstack Software Developer • JavaScript • React • Node.js**
 
-Creative and technically skilled junior software developer transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, music technology, and interactive multimedia, I am now focused software development. I bring excellent communication, project management, and problem-solving skills, along with a growing portfolio of hands-on development projects.
+Creative and technically skilled junior software developer transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, music technology, and interactive multimedia, I am now focusing on software development. I bring excellent communication, project management, and problem-solving skills, along with a growing portfolio of hands-on development projects.
 
 ## Education
 
@@ -40,7 +40,7 @@ Creative and technically skilled junior software developer transitioning from a 
 - **Tools:** GitHub, npm, VS Code, Markdown, LaTeX
 - **Testing & Deployment:** Unit Testing, Render, Docker (intro), CI/CD (basic)
 - **Currently Learning:** Next.js, AWS, React Native
-- **Other Skills:** Technical writing, agile collaboration, mentoring, public speaking
+- **Other Skills:** Technical writing, research, agile working, mentoring, public speaking
 
 ## Software Projects
 
