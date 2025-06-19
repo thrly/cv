@@ -3,6 +3,7 @@ title: CV
 author: Oliver Thurley
 email: o.thrly@gmail.com
 phone: "+447792723236"
+web: thrly.com
 github: thrly
 linkedin: oliver-thurley
 updated: June 2025
