@@ -1,8 +1,8 @@
 # Markdown CV Formatting Workflow
 
-[![Render CV](https://github.com/thrly/md-cv/actions/workflows/convert-cv.yml/badge.svg)](https://github.com/thrly/md-cv/actions/workflows/convert-cv.yml)
+[![Render CV](https://github.com/thrly/cv/actions/workflows/convert-cv.yml/badge.svg)](https://github.com/thrly/cv/actions/workflows/convert-cv.yml)
 
-Keep your markdown CV up-to-date with version control and available in various common formats: HTML, PDF, DOCX, and LaTeX. A [live web version](https://thrly.github.io/md-cv/outputs/cv.html) is also hosted with GitHub Pages.
+Keep your markdown CV up-to-date with version control and available in various common formats: HTML, PDF, DOCX, and LaTeX. A [live web version](https://thrly.github.io/cv/outputs/cv.html) is also hosted with GitHub Pages.
 
 The format rendering is handled using GitHub actions using Pandoc via official Docker images.
 
@@ -92,7 +92,6 @@ To enhable a hosted GitHub Pages version:
 
 > [!NOTE]
 > If you run change the latex template, you may find errors where packages are not already included in the [`docker://pandoc/extra`](https://hub.docker.com/r/pandoc/extra) build.
-
 
 ## Requirements
 
