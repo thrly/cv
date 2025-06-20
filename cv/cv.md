@@ -15,8 +15,8 @@ Creative and technically skilled junior software developer transitioning from a 
 
 ## Education
 
-- **PhD** - University of Leeds, _2012–2016_ - Fully funded by AHRC. Awarded without corrections and Board of Examiners Prize
-- **MA** - Computer Music & Music Technology _(Distinction)_ - University of Leeds, _2010–2011_
+- **PhD** - Fully funded by AHRC. Awarded without corrections and Board of Examiners Prize. University of Leeds, _2012–2016_
+- **MA** - Computer Music & Music Technology (Distinction) - University of Leeds, _2010–2011_
 - **BA(Hons)** - Music Production (First Class) - Leeds College of Music, _2007–2010_
 
 ## Professional Experience
@@ -44,7 +44,7 @@ Creative and technically skilled junior software developer transitioning from a 
 
 ## Software Projects
 
-### [Grant Scribe](https://github.com/thrly/grant-scribe) (React, TypeScript, Express, OpenAI API)
+### [Grant Scribe](https://granter.onrender.com/) (React, TypeScript, Express, OpenAI API)
 
 SPA that generates tailored research proposals from user input. Built with React (TypeScript), Node.js/Express backend, and RESTful calls to the OpenAI API. Deployed via Render. Demonstrates component-based architecture, async data fetching, error handling.
 
@@ -52,15 +52,15 @@ SPA that generates tailored research proposals from user input. Built with React
 
 Published npm module that generates animated ASCII clouds using simplex noise. Demonstrates proficiency in package publishing and noise algorithms.
 
-### [Pen Plotter Art](https://github.com/thrly/pen-plotter-art) (p5.js, Raspberry Pi, Arduino)
+### [Pen Plotter Art](https://github.com/thrly/pen-plotter-resources) (p5.js, Raspberry Pi, Arduino)
 
 Interactive generative drawing using p5.js to design visuals, render gcode, and control a 3D-printed pen plotter. Combines creative coding, hardware integration, and microcontroller programming.
 
-### [Harmonic Synthesizer](https://github.com/thrly/harmonic-synth) (p5.sound, JavaScript)
+### [Harmonic Synthesizer](https://github.com/thrly/harmonic-series-synth) (p5.sound, JavaScript)
 
 Browser-based synthesizer for demonstrating harmonic series relationships through real-time audio generation and UI controls. Used in educational settings for interactive music teaching.
 
-### [Tempest](https://github.com/thrly/tempest-keyboard) (ZMK Firmware, Hardware)
+### [Tempest](https://github.com/thrly/tempest) (ZMK Firmware, Hardware)
 
 Designed and built a wireless 36-key split keyboard running custom ZMK firmware. Focused on PCB layout, embedded firmware, and configuration.
 

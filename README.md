@@ -6,6 +6,8 @@ Keep your markdown CV up-to-date with version control and available in various c
 
 The format rendering is handled using GitHub actions using Pandoc via official Docker images.
 
+![Diagram](diagram.svg)
+
 ## Project Structure
 
 ```bash
@@ -35,10 +37,13 @@ md-cv/
   - Saves all generated files in the `outputs/` directory.
   - Uploads the `outputs/` directory as a workflow artifact.
   - Commits and pushes the updated `outputs/` directory back to the repository (on GitHub Actions only).
+  - Live HTML version hosted on GitHub Pages (after forked repo setup, see below).
 
 ## Getting Started
 
 1. **Fork this repository**
+   - (Optional:) [Set up GitHub Pages for a live HTML version](#github-pages).
+
 2. **Clone to your local machine**
 
    ```bash
@@ -68,6 +73,15 @@ md-cv/
    - The latest generated files are always available in / pushed to the `outputs/` directory in the repository.
    - You can also download them as workflow artifacts from the GitHub Actions run summary.
 
+## GitHub Pages
+
+To enhable a hosted GitHub Pages version:
+
+1. Go to your repo Settings > Pages.
+2. Under `Source`, select `Deploy from a branch`
+3. Under branch, select `master` and `/(root)`. Save
+4. Your CV will be accessible at: `https://your-github-username.github.io/cv-md/outputs/cv`
+
 ## Notes
 
 - The workflow uses official Pandoc Docker images for reproducible builds.
@@ -79,14 +93,6 @@ md-cv/
 > [!NOTE]
 > If you run change the latex template, you may find errors where packages are not already included in the [`docker://pandoc/extra`](https://hub.docker.com/r/pandoc/extra) build.
 
-## GitHub Pages
-
-To enhable a hosted GitHub Pages version:
-
-1. Go to your repo Settings > Pages.
-2. Under `Source`, select `Deploy from a branch`
-3. Under branch, select `master` and `/(root)`. Save
-4. Your CV will be accessible at: `https://your-github-username.github.io/cv-md/outputs/cv`
 
 ## Requirements
 
