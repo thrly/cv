@@ -1,18 +1,21 @@
 :root {
-  --accent: hsl(170, 100%, 40%);
-  --grey: hsl(0, 0%, 40%);
-  --black: hsl(0, 0%, 10%);
+  --accent: #fab387;
+  --headings: #94e2d5;
+  --main-text: #cdd6f4;
+  --highlight: #f2cdcd;
+  --background: #1e1e2e;
 }
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: auto;
   max-width: 800px;
-  color: var(--black);
+  color: var(--main-text);
+  background-color: var(--background);
 }
 h1,
 h2 {
-  color: var(--grey);
+  color: var(--headings);
   margin-bottom: 0.5rem;
 }
 h1 {
@@ -35,7 +38,7 @@ a,
 p a {
   text-decoration: none;
   font-style: italic;
-  color: var(--black);
+  color: var(--main-text);
 }
 
 a:hover {
@@ -63,13 +66,13 @@ ul {
 .social a {
   text-decoration: none;
   font-style: normal;
-  color: var(--black);
+  color: var(--main-text);
 }
 .social a:hover {
   text-decoration: none;
   font-style: normal;
-  color: white;
-  background-color: var(--black);
+  color: var(--accent);
+  /* background-color: var(--highlight); */
 }
 
 hr {

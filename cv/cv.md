@@ -42,7 +42,7 @@ Creative and technically skilled junior software developer transitioning from a 
 - **Currently Learning:** Next.js, AWS, React Native
 - **Other Skills:** Technical writing, research, agile working, mentoring, public speaking
 
-## Software Projects
+## Personal Projects
 
 ### [Grant Scribe](https://granter.onrender.com/) (React, TypeScript, Express, OpenAI API)
 
