@@ -1,33 +1,37 @@
 % Developer CV LaTeX Template
-\documentclass[11pt,a4paper]{article}
+\documentclass[10pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=2cm]{geometry}
 \usepackage{hyperref}
 \usepackage{parskip}
-\usepackage{enumitem}
-\usepackage{xcolor}
 \usepackage{titlesec}
 \usepackage{fancyhdr}
-\renewcommand{\familydefault}{\sfdefault} % Use sans-serif as default
 
-% Colors and section styling
-\definecolor{devblue}{HTML}{005fa3}
-\titleformat{\section}{\large\bfseries\color{devblue}}{}{0em}{}
-% Remove numbering from subsection headings
-\titleformat{\subsection}[block]{\normalsize\bfseries\color{black}}{}{0em}{}
+% \usepackage[defaultfam,tabular,lining]{montserrat}
+\usepackage[default,lining]{sourcesanspro}
+\usepackage[T1]{fontenc}
 
-% Header and footer
-\pagestyle{fancy}
-\fancyhf{}
-\lhead{\textcolor{devblue}{Oliver Thurley}}
-\rhead{\thepage}
+\makeatletter
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\begin{flushleft}
+  \normalfont{\@title}
+  \@author
+\end{flushleft}\egroup
+}
+\makeatother
 
-% Fix for Pandoc's tightlist
-\providecommand{\tightlist}{%
+\titleformat{\section}{\large\bfseries}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries}{}{0em}{\titlerule\newline}
+\titlespacing{\subsection}{0em}{*1}{0.5em}
+\titleformat{\subsubsection}{\normalfont\bfseries}{}{0em}{}
+
+\pagestyle{empty} % disables page numbers
+
+\providecommand{\tightlist}{%Fix for Pandoc's tightlist
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % Personal data (filled by Pandoc variables)
-\title{\textcolor{devblue}{\large Oliver Thurley}}
+\title{{\huge Oliver Thurley}{\raggedright}}
 \author{}
 \date{}
 
@@ -35,14 +39,15 @@
 
 \maketitle
 
-\vspace{-1em}
-\noindent\href{mailto:o.thrly@gmail.com}{\texttt{o.thrly@gmail.com}} \hspace{1em}
-\textbf{Phone:} +447792723236 \hspace{1em}
-\href{https://thrly.com}{\texttt{thrly.com}} \hspace{1em}
-\textbf{GitHub:} \href{https://github.com/thrly}{\texttt{thrly}} \hspace{1em}
-\textbf{LinkedIn:} \href{https://linkedin.com/in/oliver-thurley}{\texttt{oliver-thurley}}
+\vspace{0.5em}
+\noindent\href{mailto:o.thrly@gmail.com}{\normalfont{o.thrly@gmail.com}} \hfill
+\normalfont{+447792723236} \hfill
+\href{https://github.com/thrly}{\normalfont{GitHub}} \hfill
+\href{https://linkedin.com/in/oliver-thurley}{\normalfont{LinkedIn}}
 
-\vspace{1em}
+\vspace{0.75em}
+\noindent\rule{\textwidth}{0.5pt}
+% \vspace{0.33em}
 
 \textbf{Fullstack Software Developer • JavaScript • React • Node.js}
 
@@ -170,5 +175,6 @@ Please get in touch via
 \href{mailto:o.thrly@gmail.com}{\nolinkurl{o.thrly@gmail.com}} and find
 me on \href{https://github.com/thrly}{GitHub} or
 \href{https://www.linkedin.com/in/oliver-thurley}{LinkedIn}.
+
 
 \end{document}
