@@ -1,6 +1,9 @@
-# Markdown CV Formatting Workflow
-
+# [View my live CV here](https://thrly.github.io/cv/outputs/cv) 🔗
 [![Render CV](https://github.com/thrly/cv/actions/workflows/convert-cv.yml/badge.svg)](https://github.com/thrly/cv/actions/workflows/convert-cv.yml)
+
+I keep my CV updated and version-controlled in multiple formats using some handy automation and [pandoc](https://pandoc.org/) conversions. Read on for details...
+
+## Markdown CV Formatting Workflow: [cv-md](https://github.com/thrly/cv-md)
 
 Keep your markdown CV up-to-date with version control and available in various common formats: HTML, PDF, DOCX, and LaTeX. A [live web version](https://thrly.github.io/cv/outputs/cv.html) is also hosted with GitHub Pages.
 
