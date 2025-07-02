@@ -1,6 +1,8 @@
 # [View my live CV here](https://thrly.github.io/cv/outputs/cv) 🔗
 [![Render CV](https://github.com/thrly/cv/actions/workflows/convert-cv.yml/badge.svg)](https://github.com/thrly/cv/actions/workflows/convert-cv.yml)
 
+## PDF, LaTeX, DOCX, and HTML versions found in [outputs/](https://github.com/thrly/cv/tree/master/outputs)
+
 I keep my CV updated and version-controlled in multiple formats using some handy automation and [pandoc](https://pandoc.org/) conversions. Read on for details...
 
 ## Markdown CV Formatting Workflow: [cv-md](https://github.com/thrly/cv-md)
