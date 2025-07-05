@@ -9,7 +9,7 @@ linkedin: oliver-thurley
 updated: June 2025
 ---
 
-**Fullstack Software Developer • JavaScript • React • Node.js**
+**Full-stack Software Developer • JavaScript • Python • React • Node.js**
 
 Creative and technically skilled junior software developer transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, music technology, and interactive multimedia, I am now focusing on software development. I bring excellent communication, project management, and problem-solving skills, along with a growing portfolio of hands-on development projects.
 
@@ -32,14 +32,19 @@ Creative and technically skilled junior software developer transitioning from a 
 - Provision of technical teaching across music technology and electronic engineering programmes.
 - Supported student development with structured project feedback and supervision.
 
+## Certifications
+
+- [GitHub Foundations certification](https://www.credly.com/badges/8f2ca183-49d2-426a-8483-cbdb8f4efdbd/public_url) - GitHub
+- [Full-Stack Engineer certification](https://www.codecademy.com/profiles/thrly/certificates/ffd0f42cce1a44e9a0108b365047a0a6) - Codecademy
+
 ## Technical Skills
 
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js, Express, p5.js
-- **Databases & APIs:** RESTful APIs, PostgreSQL (learning)
+- **Databases & APIs:** RESTful APIs, PostgreSQL, Swagger
 - **Tools:** GitHub, npm, VS Code, Markdown, LaTeX
-- **Testing & Deployment:** Unit Testing, Render, Docker (intro), CI/CD (basic)
-- **Currently Learning:** Next.js, AWS, React Native
+- **Testing & Deployment:** Unit Testing, Render, Docker (intro), CI/CD (GitHub Actions)
+- **Currently Learning:** Next.js, AWS, React Native, Django, Pandas
 - **Other Skills:** Technical writing, research, agile working, mentoring, public speaking
 
 ## Personal Projects
