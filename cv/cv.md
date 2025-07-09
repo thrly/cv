@@ -21,7 +21,7 @@ Creative and technically skilled junior software developer transitioning from a 
 
 ## Professional Experience
 
-### Lecturer, University of Leeds (2019 – present)
+### [Lecturer, University of Leeds](https://ahc.leeds.ac.uk/music/staff/488/dr-oliver-thurley) (2019 – present)
 
 - Delivered lectures and workshops to technical and creative audiences on topics including JavaScript, p5.js, and Max/MSP.
 - Supervised software-based student projects involving generative systems and interactive installations.
@@ -32,10 +32,12 @@ Creative and technically skilled junior software developer transitioning from a 
 - Provision of technical teaching across music technology and electronic engineering programmes.
 - Supported student development with structured project feedback and supervision.
 
-## Certifications
+## Certifications & Awards
 
 - [GitHub Foundations certification](https://www.credly.com/badges/8f2ca183-49d2-426a-8483-cbdb8f4efdbd/public_url) - GitHub
 - [Full-Stack Engineer certification](https://www.codecademy.com/profiles/thrly/certificates/ffd0f42cce1a44e9a0108b365047a0a6) - Codecademy
+- Kranichsteiner Musikpreis - Internationales Musikinstitut Darmstadt, Germany, 2018
+- Artist Residency, Junge Akademie scholarship - Berlin Akademie der Kunst, Germany, 2022
 
 ## Technical Skills
 
@@ -46,6 +48,8 @@ Creative and technically skilled junior software developer transitioning from a 
 - **Testing & Deployment:** Unit Testing, Render, Docker (intro), CI/CD (GitHub Actions)
 - **Currently Learning:** Next.js, AWS, React Native, Django, Pandas
 - **Other Skills:** Technical writing, research, agile working, mentoring, public speaking
+
+I have contributed to the open-source project [p5.js](https://p5js.org/), a creative-coding JavaScript library by the [Processing Foundation](https://processingfoundation.org/). 
 
 ## Personal Projects
 
