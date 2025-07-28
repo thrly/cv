@@ -9,9 +9,9 @@ linkedin: oliver-thurley
 updated: June 2025
 ---
 
-**Full-stack Software Developer • JavaScript • Python • React • Node.js**
+**Full-stack Software Developer • _JavaScript_ • _Python_ • _React_ • _Node.js_**
 
-Creative and technically skilled junior software developer transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, music technology, and interactive multimedia, I am now focusing on software development. I bring excellent communication, project management, and problem-solving skills, along with a growing portfolio of hands-on development projects.
+I am a creative and technically skilled junior software developer, transitioning from a successful academic career in music technology and creative coding. After a decade of designing and teaching modules involving programming, music technology, and interactive multimedia, I am now focusing on software development. I bring excellent communication, research, and problem-solving skills, along with a growing portfolio of hands-on development projects.
 
 ## Education
 
@@ -43,13 +43,14 @@ Creative and technically skilled junior software developer transitioning from a 
 
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js, Express, p5.js
-- **Databases & APIs:** RESTful APIs, PostgreSQL, Swagger
-- **Tools:** GitHub, npm, VS Code, Markdown, LaTeX
-- **Testing & Deployment:** Unit Testing, Render, Docker (intro), CI/CD (GitHub Actions)
-- **Currently Learning:** Next.js, AWS, React Native, Django, Pandas
+- **Databases & APIs:** RESTful APIs, PostgreSQL, OpenAPI/Swagger
+- **Tools:** GitHub, npm, VS Code, neoVim, Markdown, LaTeX, AI
+
+- **Testing & Deployment:** Unit Testing, Render, Docker, GitHub Actions
+- **Currently Learning:** Next.js, AWS, React Native
 - **Other Skills:** Technical writing, research, agile working, mentoring, public speaking
 
-I have contributed to the open-source project [p5.js](https://p5js.org/), a creative-coding JavaScript library by the [Processing Foundation](https://processingfoundation.org/). 
+I have contributed to the open-source project [p5.js](https://p5js.org/), a creative-coding JavaScript library by the [Processing Foundation](https://processingfoundation.org/).
 
 ## Personal Projects
 
