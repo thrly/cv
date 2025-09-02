@@ -6,6 +6,7 @@ on:
       - "cv/*.md"
       - "cv/templates/**"
       - "cv/.github/workflows/convert-cv.yml"
+  workflow_dispatch:
 
 jobs:
   convert_via_pandoc:
