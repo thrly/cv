@@ -5,6 +5,7 @@ on:
     paths:
       - "cv/*.md"
       - "cv/templates/**"
+      - "cv/.github/workflows/convert-cv.yml"
 
 jobs:
   convert_via_pandoc:
