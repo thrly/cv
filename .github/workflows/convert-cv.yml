@@ -35,6 +35,11 @@ jobs:
         with:
           args: outputs/oliver-thurley-cv.tex --output=outputs/oliver-thurley-cv.docx --reference-doc=cv/templates/cv-template.docx -t docx
 
+      - name: Convert to ODT
+        uses: docker://pandoc/core:3.7
+        with:
+          args: cv/cv.md --output=outputs/oliver-thurley-cv.odt
+
       - name: Convert to HTML
         uses: docker://pandoc/core:3.7
         with:
