@@ -6,10 +6,8 @@ phone: "+447792723236"
 web: thrly.com
 github: thrly
 linkedin: oliver-thurley
-updated: August 2025
+updated: September 2025
 ---
-
-**Full-stack Software Developer • _JavaScript_ • _Python_ • _React_ • _Node.js_**
 
 I am changing career following a number of years working as an academic lecturer in music technology.
 
@@ -17,12 +15,12 @@ I am passionate about programming and constantly expanding my skills through app
 
 ## Technical Skills
 
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS, Lua;
-- **Frameworks & Libraries:** React, Node.js, Express, p5.js;
+- **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS;
+- **Frameworks & Libraries:** React, Node.js, Express.js, p5.js;
 - **Databases & APIs:** PostgreSQL, RESTful APIs, OpenAPI/Swagger;
-- **Tools:** GitHub, npm, neovim, VS Code, Markdown, LaTeX, AI, yaml, toml;
-- **Testing & Deployment:** , GitHub Actions, Docker, Unit Testing (mocha, jest), Render, Supabase;
-- **Other Skills:** Technical writing, research, agile working, mentoring, public speaking and teaching.
+- **Tools:** Git, GitHub, npm, neovim, VS Code, Markdown, LaTeX, AI, yaml, toml;
+- **Testing & Deployment:** GitHub Actions (CI/CD), Docker, Unit Testing (mocha, jest), Render, Netlify, Supabase;
+- **Other Skills:** Technical writing, research, agile practices, mentoring, public speaking and teaching.
 
 I have contributed to the open-source project [p5.js](https://p5js.org/), a creative-coding JavaScript library by the [Processing Foundation](https://processingfoundation.org/).
 
@@ -36,7 +34,7 @@ I have contributed to the open-source project [p5.js](https://p5js.org/), a crea
 - Programme leader of BSc Music, Multimedia and Electronics programme, co-taught with School of Electronics and Electrical Engineering.
 - Worked as part of a team to develop a new Music Technology programme, which recruited >40% of our School's undergraduate intake in 2024-25.
 - Supervised over 20 undergraduate software-based student projects, including procedural systems, interactive installations, multi-channel audio diffusion systems, and music education apps.
-- Each academic year I produce new technical documentation and teaching materials, including a successful YouTube-partnered channel teaching the programming language, Max/MSP.
+- Each academic year I produce new technical documentation and teaching materials, including a successful [YouTube-partnered channel](https://www.youtube.com/@thrly) teaching the programming language, Max/MSP.
 - Supervisor and examiner to PhD students.
 - My tutored students' average grade is a high 2:1. (2023--25)
 
@@ -45,7 +43,7 @@ I have contributed to the open-source project [p5.js](https://p5js.org/), a crea
 - Technical teaching across BA, MA Music Technology and BSc Electronic Engineering programmes.
 - Supported student development with structured mentoring, project feedback, tutorials and supervision.
 
-## Personal Projects
+## Projects
 
 ### [Grant Scribe](https://granter.onrender.com/) (React, TypeScript, Express, OpenAI API)
 
@@ -83,3 +81,7 @@ Designed and built a wireless 36-key split ergonomic keyboard running custom ZMK
 ## Contact
 
 Please get in touch via [o.thrly@gmail.com](mailto:o.thrly@gmail.com) and find me on [GitHub](https://github.com/thrly) or [LinkedIn](https://www.linkedin.com/in/oliver-thurley).
+
+### Keywords
+
+Software Developer, Full-Stack Developer, Entry-Level Programmer, Junior Developer, Web Development, React.js, Express.js, Node.js, JavaScript, Python, PostgreSQL, SQL, REST API, CI/CD, Agile, Frontend, Backend, Fullstack
