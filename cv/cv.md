@@ -7,18 +7,17 @@ web: thrly.com
 github: thrly
 linkedin: oliver-thurley
 updated: September 2025
+keywords: design patterns, problem-solving, python, JavaScript, Typescript, HTML, CSS, React, node.js, Docker, Git, agile, full-stack developer
 ---
 
-I am changing career following a number of years working as an academic lecturer in music technology.
+I am driven and passionate about programming and constantly expanding my skills through applied projects. I combine a creative approach with strong analytical thinking, and am experienced in research, communication, and problem-solving. I am a fast learner and thrive when collaborating to design and build innovative solutions. I am changing careers following a number of years working as an academic lecturer in music technology.
 
-I am passionate about programming and constantly expanding my skills through applied projects. I combine a creative approach with strong analytical thinking, and am experienced in research, communication, and problem-solving. I am a fast learner and thrive when collaborating to design and build innovative solutions.
+## Technical Skills: Full-Stack
 
-## Technical Skills
-
-- **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS;
+- **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS, (currently learning Go and Java);
 - **Frameworks & Libraries:** React, Node.js, Express.js, p5.js;
 - **Databases & APIs:** PostgreSQL, RESTful APIs, OpenAPI/Swagger;
-- **Tools:** Git, GitHub, npm, neovim, VS Code, Markdown, LaTeX, AI, yaml, toml;
+- **Tools:** Git, GitHub, npm, neovim, VS Code, Markdown, LaTeX, AI-ready;
 - **Testing & Deployment:** GitHub Actions (CI/CD), Docker, Unit Testing (mocha, jest), Render, Netlify, Supabase;
 - **Other Skills:** Technical writing, research, agile practices, mentoring, public speaking and teaching.
 
@@ -81,7 +80,3 @@ Designed and built a wireless 36-key split ergonomic keyboard running custom ZMK
 ## Contact
 
 Please get in touch via [o.thrly@gmail.com](mailto:o.thrly@gmail.com) and find me on [GitHub](https://github.com/thrly) or [LinkedIn](https://www.linkedin.com/in/oliver-thurley).
-
-### Keywords
-
-Software Developer, Full-Stack Developer, Entry-Level Programmer, Junior Developer, Web Development, React.js, Express.js, Node.js, JavaScript, Python, PostgreSQL, SQL, REST API, CI/CD, Agile, Frontend, Backend, Fullstack
