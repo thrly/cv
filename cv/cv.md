@@ -54,9 +54,9 @@ I have contributed to the open-source project [p5.js](https://p5js.org/), a crea
 
 A project to apply skills in React, Typescript, CI/CD, and the OpenAI API. This SPA generates tailored research proposals from user input. Built with React, Node / Express backend, and RESTful API calls. Deployed via Render. Demonstrates component-based architecture, async data fetching, error handling.
 
-### [scryfall-set](https://github.com/thrly/scry) (Python, SQL, CLI Tool)
+### [scry](https://github.com/thrly/scry) (Python, SQL, CLI Tool)
 
-A project to develop skills with data ingestion and database queries in Python. Leverages the Scryfall API and an SQLite database to allow a user to view stats for MTG set releases and custom searches via the command line. Packaged and released through PyPi index.
+A project to develop skills with data ingestion and database queries in Python. Leverages the Scryfall API and an SQLite database to view stats for MTG set releases and custom searches via the command line. Packaged and released through PyPi index.
 
 ### [clouddrift](https://github.com/thrly/clouddrift) (Node.js, CLI Tool)
 
