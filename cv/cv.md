@@ -6,19 +6,19 @@ phone: "+447792723236"
 web: thrly.com
 github: thrly
 linkedin: oliver-thurley
-updated: September 2025
-keywords: design patterns, problem-solving, python, JavaScript, Typescript, HTML, CSS, React, node.js, Docker, Git, agile, full-stack developer
+updated: October 2025
+keywords: developer, software, engineer, design patterns, problem-solving, python, JavaScript, Typescript, HTML, CSS, React, node.js, Docker, Git, agile, full-stack, backend
 ---
 
-I am driven and passionate about programming and constantly expanding my skills through applied projects. I combine a creative approach with strong analytical thinking, and am experienced in research, communication, and problem-solving. I am a fast learner and thrive when collaborating to design and build innovative solutions. I am changing careers following a number of years working as an academic lecturer in music technology.
+I am driven to learn and always strive to expand and develop my skills through applied projects. I combine a creative approach with strong analytical thinking, and am experienced in research, communication, and problem-solving. I am a fast learner and thrive when collaborating to design and build innovative solutions. Following a number of years working as an academic lecturer in music technology, I am now looking to change careers to software development to focus on my passion for code and collaboration.
 
 ## Technical Skills: Full-Stack
 
-- **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS, (currently learning Go and Java);
+- **Languages:** JavaScript, Python, TypeScript, HTML, CSS;
 - **Frameworks & Libraries:** React, Node.js, Express.js, p5.js;
-- **Databases & APIs:** PostgreSQL, RESTful APIs, OpenAPI/Swagger;
-- **Tools:** Git, GitHub, npm, neovim, VS Code, Markdown, LaTeX, AI-ready;
-- **Testing & Deployment:** GitHub Actions (CI/CD), Docker, Unit Testing (mocha, jest), Render, Netlify, Supabase;
+- **Databases & APIs:** SQL (Postgres, SQLite), RESTful APIs, OpenAPI/Swagger;
+- **Tools:** Git, GitHub, Linux, Neovim, VS Code, Markdown, npm and PyPi packaging, LaTeX, AI-ready;
+- **Testing & Deployment:** GitHub Actions (CI/CD), Docker, Unit Testing (pytest, mocha, jest), Render, Netlify, Supabase;
 - **Other Skills:** Technical writing, research, agile practices, mentoring, public speaking and teaching.
 
 I have contributed to the open-source project [p5.js](https://p5js.org/), a creative-coding JavaScript library by the [Processing Foundation](https://processingfoundation.org/).
@@ -42,11 +42,21 @@ I have contributed to the open-source project [p5.js](https://p5js.org/), a crea
 - Technical teaching across BA, MA Music Technology and BSc Electronic Engineering programmes.
 - Supported student development with structured mentoring, project feedback, tutorials and supervision.
 
+## Education
+
+- **PhD** - Music - Fully funded by AHRC. Awarded without corrections and Board of Examiners Prize. University of Leeds, _2012–2016_
+- **MA** - Computer Music & Music Technology (Distinction) - University of Leeds, _2010–2011_
+- **BA(Hons)** - Music Production (First Class) - Leeds College of Music, _2007–2010_
+
 ## Projects
 
 ### [Grant Scribe](https://granter.onrender.com/) (React, TypeScript, Express, OpenAI API)
 
 A project to apply skills in React, Typescript, CI/CD, and the OpenAI API. This SPA generates tailored research proposals from user input. Built with React, Node / Express backend, and RESTful API calls. Deployed via Render. Demonstrates component-based architecture, async data fetching, error handling.
+
+### [scryfall-set](https://github.com/thrly/scry) (Python, SQL, CLI Tool)
+
+A project to develop skills with data ingestion and database queries in Python. Leverages the Scryfall API and an SQLite database to allow a user to view stats for MTG set releases and custom searches via the command line. Packaged and released through PyPi index.
 
 ### [clouddrift](https://github.com/thrly/clouddrift) (Node.js, CLI Tool)
 
@@ -63,12 +73,6 @@ Developed skills creating a browser-based synthesizer for demonstrating harmonic
 ### [Tempest](https://github.com/thrly/tempest) (ZMK Firmware, Hardware)
 
 Designed and built a wireless 36-key split ergonomic keyboard running custom ZMK config (Zephyr). Learned about PCB layout, embedded firmware, and configuration.
-
-## Education
-
-- **PhD** - Music - Fully funded by AHRC. Awarded without corrections and Board of Examiners Prize. University of Leeds, _2012–2016_
-- **MA** - Computer Music & Music Technology (Distinction) - University of Leeds, _2010–2011_
-- **BA(Hons)** - Music Production (First Class) - Leeds College of Music, _2007–2010_
 
 ## Certifications & Awards
 
