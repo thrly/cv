@@ -10,7 +10,7 @@ updated: October 2025
 keywords: developer, software, engineer, design patterns, problem-solving, python, JavaScript, Typescript, HTML, CSS, React, node.js, Docker, Git, agile, full-stack, backend
 ---
 
-I am driven to learn and always strive to expand and develop my skills through applied projects. I combine a creative approach with strong analytical thinking, and am experienced in research, communication, and problem-solving. I am a fast learner and thrive when collaborating to design and build innovative solutions. Following a number of years working as an academic lecturer in music technology, I am now looking to change careers to software development to focus on my passion for code and collaboration.
+I am changing careers following a number of years working as an academic university lecturer in music technology. I’m now developing my skills as a software engineer by building personal projects and applying my creativity and analytical thinking to real-world problems.
 
 ## Technical Skills: Full-Stack
 
